@@ -1,0 +1,21 @@
+{
+  "name": "advanced_typescript_concepts",
+  "version": "1.0.0",
+  "description": "An interactive tutorial on advanced TypeScript concepts.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "tutorial",
+    "education",
+    "programming"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "typescript": "^5.4.5",
+    "ts-node": "^10.8.0"
+  }
+}
