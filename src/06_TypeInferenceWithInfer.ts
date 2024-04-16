@@ -9,6 +9,7 @@
 /**
  * Example 1: Extracting Return Type of a Function
  * This example demonstrates how to use 'infer' to capture the return type of a function dynamically.
+ * We use the name CustomReturnType because ReturnType is already reserved by Typescript
  */
 type CustomReturnType<T> = T extends (...args: any[]) => infer R ? R : never;
 
