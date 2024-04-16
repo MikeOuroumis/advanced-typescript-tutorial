@@ -74,14 +74,14 @@ topics:
 
 1. **Generics** - Understand how to use generics to create flexible and reusable
    code.
-2. **Utility Types** - Learn how to leverage built-in utility types to write
-   more effective TypeScript code.
-3. **Mapped Types** - Dive into creating custom type transformations using
-   mapped types.
-4. **Conditional Types** - Explore the powerful conditional types for more
+2. **Conditional Types** - Explore the powerful conditional types for more
    dynamic type-checking scenarios.
-5. **Intersection and Union Types** - Master combining types to enforce
+3. **Intersection and Union Types** - Master combining types to enforce
    structure and consistency across your projects.
+4. **Utility Types** - Learn how to leverage built-in utility types to write
+   more effective TypeScript code.
+5. **Mapped Types** - Dive into creating custom type transformations using
+   mapped types.
 6. **Type Inference with `infer`** - Get hands-on experience with `infer` for
    smarter type inference.
 
@@ -93,13 +93,6 @@ topics:
   in order. Each module builds on knowledge from the previous ones.
 - **Feedback Loop**: Use your IDE’s TypeScript integration to get immediate
   feedback on the code you write or modify.
-
-## Community and Contributions
-
-Got improvements or additional examples? Feel free to fork this repository, make
-your changes, and submit a pull request. We love collaborative improvement and
-believe that teaching is a great way to solidify knowledge. Join the community
-and help us make this resource better!
 
 Thank you for choosing this tutorial to advance your TypeScript skills. Happy
 coding!
