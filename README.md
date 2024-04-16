@@ -15,6 +15,50 @@ official TypeScript documentation, not replace it. For more comprehensive
 insights and official examples, make sure to check out the
 [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html).
 
+## Getting Started
+
+To get started with this tutorial, you'll need to set up your environment by
+following these steps:
+
+### 1. Clone the Repository
+
+First, clone this repository to your local machine using Git. Open your terminal
+and run the following command:
+
+```bash
+git clone https://github.com/MikeOuroumis/advanced-typescript-tutorial.git
+cd advanced-typescript-tutorial
+```
+
+### 2. Install Dependencies
+
+Once you've cloned the repository and navigated into the project directory,
+install the necessary dependencies by running:
+
+```bash
+npm install
+```
+
+### 3. Run the Tutorial Files
+
+Each file in this tutorial is a self-contained module that demonstrates specific
+TypeScript features. To run any of these files and see the effects of the
+changes you make, use `ts-node`, which allows you to execute TypeScript directly
+without compiling to JavaScript first. If you haven't installed `ts-node`, you
+can install it globally on your system via npm:
+
+To run a specific file, use the following command:
+
+```bash
+ts-node <filename>
+```
+
+For example, to run the Generics tutorial, you would type:
+
+```bash
+ts-node 01_Generics.ts
+```
+
 ## What Will You Learn?
 
 Through this tutorial, you'll gain a deeper understanding of the following
