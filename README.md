@@ -4,16 +4,24 @@ Welcome to the Advanced TypeScript Tutorial! This series is designed for those
 who prefer a hands-on approach to learning, allowing you to interactively
 explore advanced TypeScript features directly in your IDE. Whether you’re
 refining your skills or diving into TypeScript's complex types for the first
-time, this tutorial offers a structured path to mastery.
+time, this tutorial offers a series of insights into advanced TypeScript
+techniques.
 
 ## Why This Tutorial?
 
-This tutorial stands out because it encourages learning by doing. You won’t just
-passively read about types; you’ll write, break, and fix code, which is, after
-all, the best way to learn. Remember, this tutorial is meant to complement the
-official TypeScript documentation, not replace it. For more comprehensive
-insights and official examples, make sure to check out the
+This tutorial is designed for those who prefer to engage directly with their
+development environment. While learning TypeScript can be effective in various
+settings, including browser-based sandboxes, this series caters specifically to
+developers who enjoy the familiarity and integrated features of their own IDE.
+
+This hands-on approach complements the official TypeScript documentation,
+providing an opportunity to apply theoretical knowledge in a practical
+environment. For a thorough understanding of TypeScript's capabilities, check
+out the
 [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html).
+Whether you’re refining your skills or exploring advanced concepts for the first
+time, this tutorial offers a structured pathway through select advanced
+TypeScript topics, right from the comfort of your IDE.
 
 ## Getting Started
 
